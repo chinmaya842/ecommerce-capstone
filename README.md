@@ -1,5 +1,8 @@
 # ShopSphere — E-Commerce Platform
 
+## Live Demo
+https://ecommerce-capstone-pxdw.onrender.com
+
 ## Overview
 A full-stack e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js), featuring product browsing, cart management, user authentication, and secure payment processing.
 
